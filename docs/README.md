@@ -30,7 +30,9 @@ OctoAcme's project management approach is built on five foundational principles:
 
 This documentation is organized to mirror our project lifecycle. Each guide provides practical templates, checklists, and best practices for that phase of work.
 
-### Complete Process Documentation
+### Process Documentation
+
+The following seven guides walk through OctoAcme's project lifecycle from initiation to retrospective:
 
 1. **[Project Management Overview](octoacme-project-management-overview.md)**  
    Start here for a concise introduction to OctoAcme's project management approach, including our principles, core roles, key artifacts, and communication cadence. This overview provides the foundation for understanding how all the pieces fit together.
@@ -53,8 +55,10 @@ This documentation is organized to mirror our project lifecycle. Each guide prov
 7. **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)**  
    Learn how to run effective retrospectives after sprints, releases, and incidents. Includes facilitation tips, common formats, and techniques for capturing learnings and turning them into action items.
 
-8. **[Roles & Personas](octoacme-roles-and-personas.md)**  
-   Detailed descriptions of OctoAcme's three core personas: Developers, Product Managers, and Project Managers. Understand each role's responsibilities, goals, and typical communication patterns.
+### Reference Documentation
+
+**[Roles & Personas](octoacme-roles-and-personas.md)**  
+Detailed descriptions of OctoAcme's three core personas: Developers, Product Managers, and Project Managers. Understand each role's responsibilities, goals, and typical communication patterns.
 
 ## Quick Links & Tips
 
@@ -62,7 +66,7 @@ This documentation is organized to mirror our project lifecycle. Each guide prov
 
 1. Review the **[Project Initiation](octoacme-project-initiation.md)** guide
 2. Create a project one-pager using the template
-3. Identify your stakeholders and PM/PdM leads
+3. Identify your stakeholders and Project Manager/Product Manager leads
 4. Review **[Project Planning](octoacme-project-planning.md)** to break down work
 5. Set up your project board and communication cadence
 
