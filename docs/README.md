@@ -10,7 +10,17 @@ Our **project lifecycle** provides clear structure while maintaining flexibility
 
 **Day-to-day execution** is powered by a predictable cadence: daily standups keep the team synchronized on progress and blockers, weekly delivery syncs provide visibility into milestones, and sprint demos showcase incremental value. Quality is built into every step through comprehensive testing strategies (unit, integration, end-to-end), continuous integration pipelines that catch issues early, and code review practices that encourage knowledge sharing. This rhythm creates a sustainable pace while maintaining high standards.
 
-**Collaboration** at OctoAcme is driven by three core personas—Developers who build and test, Product Managers who define outcomes and prioritize, and Project Managers who coordinate delivery and manage risks. These roles work together through intentional and regular communication, using structured templates for project charters, risk registers, and release notes. Our standardized release processes include pre-flight checks, rollback plans, and post-deployment verification to minimize risk. After each sprint, release, or incident, we conduct retrospectives to identify improvements and share learnings, fostering a culture of continuous improvement and psychological safety.
+**Collaboration** at OctoAcme is driven by eight core personas working together:
+- **Developers** build and test features
+- **Product Managers** define outcomes and prioritize
+- **Project Managers** coordinate delivery and manage risks
+- **QA Lead** ensures quality standards and testing rigor
+- **Business Analyst** gathers and validates requirements
+- **Scrum Master** facilitates agile ceremonies and removes impediments
+- **UX Designer** advocates for user experience and accessibility
+- **Data Analyst** provides insights and measures success
+
+These roles work together through intentional and regular communication, using structured templates for project charters, risk registers, and release notes. Our standardized release processes include pre-flight checks, rollback plans, and post-deployment verification to minimize risk. After each sprint, release, or incident, we conduct retrospectives to identify improvements and share learnings, fostering a culture of continuous improvement and psychological safety.
 
 ## Core Principles
 
@@ -58,7 +68,7 @@ The following seven guides walk through OctoAcme's project lifecycle from initia
 ### Reference Documentation
 
 **[Roles & Personas](octoacme-roles-and-personas.md)**  
-Detailed descriptions of OctoAcme's three core personas: Developers, Product Managers, and Project Managers. Understand each role's responsibilities, goals, and typical communication patterns.
+Detailed descriptions of OctoAcme's eight core personas: Developers, Product Managers, Project Managers, QA Lead, Business Analyst, Scrum Master, UX Designer, and Data Analyst. Understand each role's responsibilities, goals, typical communication patterns, and how they interact with other roles to improve project execution.
 
 ## Quick Links & Tips
 
