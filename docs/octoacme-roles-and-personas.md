@@ -99,7 +99,7 @@ QA Leads define and oversee quality assurance strategies, test planning, and exe
 - Daily standups to report testing progress and blockers
 - Weekly quality reports with metrics on test coverage and defect trends
 - Test readiness reviews before releases
-- Collaboration with Developers on test automation and Developers on acceptance criteria
+- Collaboration with Developers on test automation and Product Managers on acceptance criteria
 
 ### Key Interactions with Other Roles
 - **Developers**: Collaborate on test automation, review code for testability, and clarify defect reports
